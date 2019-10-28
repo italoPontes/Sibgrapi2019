@@ -2,7 +2,8 @@
 
 ##### 32nd Conference on Graphics, Patterns and Images (SIBGRAPI 2019)
 
-- [Link to paper](http://sibgrapi.sid.inpe.br/rep/sid.inpe.br/sibgrapi/2019/09.14.02.32).
+- [Paper link](http://sibgrapi.sid.inpe.br/rep/sid.inpe.br/sibgrapi/2019/09.14.02.32).
+- [Slides link.](https://docs.google.com/presentation/d/1UTtrIetkgOe4Mn9yPuNm5wtvGKpINb9wZ-oeX7WXWcY/edit#slide=id.g19c92929d4_0_440)
 
 The video relation used experiments are available at 'data' folder. Please, cite us using this Bibtex:
 
